@@ -1,0 +1,1 @@
+type vim (your txt file nam,any arbitrary name) ,press enter, and then press I for intserting some text in the txt file.After writting things,u have to press esc button to disable the insertion mode. then type :x to save the things....if this message is going to be actually saved, then I have succeeded Alhamdulillah :D
